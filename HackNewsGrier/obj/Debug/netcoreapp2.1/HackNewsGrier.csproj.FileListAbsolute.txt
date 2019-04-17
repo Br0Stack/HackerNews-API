@@ -1,0 +1,14 @@
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\bin\Debug\netcoreapp2.1\HackNewsGrier.deps.json
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\bin\Debug\netcoreapp2.1\HackNewsGrier.runtimeconfig.json
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\bin\Debug\netcoreapp2.1\HackNewsGrier.runtimeconfig.dev.json
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\bin\Debug\netcoreapp2.1\HackNewsGrier.dll
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\bin\Debug\netcoreapp2.1\HackNewsGrier.pdb
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\obj\Debug\netcoreapp2.1\HackNewsGrier.csprojAssemblyReference.cache
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\obj\Debug\netcoreapp2.1\HackNewsGrier.csproj.CoreCompileInputs.cache
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\obj\Debug\netcoreapp2.1\HackNewsGrier.RazorAssemblyInfo.cache
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\obj\Debug\netcoreapp2.1\HackNewsGrier.RazorAssemblyInfo.cs
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\obj\Debug\netcoreapp2.1\HackNewsGrier.AssemblyInfoInputs.cache
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\obj\Debug\netcoreapp2.1\HackNewsGrier.AssemblyInfo.cs
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\obj\Debug\netcoreapp2.1\HackNewsGrier.RazorTargetAssemblyInfo.cache
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\obj\Debug\netcoreapp2.1\HackNewsGrier.dll
+C:\Users\Spence\source\repos\HackNewsGrier\HackNewsGrier\obj\Debug\netcoreapp2.1\HackNewsGrier.pdb
